@@ -7,13 +7,13 @@ Simple nodejs library for talking to Google's Translate API.
 Install package
 
 ```node
-npm install ishan-Translator
+npm i @navishanop/ishan-translator
 ```
 
 ### Import module
 
 ```js
-const ishanTranslator = require("ishan-Translator");
+const ishanTranslator = require("@navishanop/ishan-translator");
 ```
 
 #### Example
