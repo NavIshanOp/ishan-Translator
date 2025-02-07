@@ -1,6 +1,6 @@
 {
-  "name": "ishan-Translator",
-  "version": "1.0.1",
+  "name": "@navishanop/ishan-translator",
+  "version": "1.0.0",
   "description": "Google translate free library for node js",
   "main": "index.js",
   "scripts": {
@@ -25,9 +25,7 @@
     "translation",
     "google-translator"
   ],
-  "author": {
-    "name": "NavIshanOp"
-  },
+  "author": "NavIshanOp",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "7.21.5",
@@ -45,5 +43,8 @@
   },
   "eslintConfig": {
     "extends": "standard"
+  },
+  "directories": {
+    "lib": "lib"
   }
 }
