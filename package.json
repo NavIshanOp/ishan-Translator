@@ -1,6 +1,6 @@
 {
   "name": "@navishanop/ishan-translator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Google translate free library for node js",
   "main": "index.js",
   "scripts": {
