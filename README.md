@@ -1,4 +1,4 @@
-# Aaru Translator
+# Ishan Translator
 
 Simple nodejs library for talking to Google's Translate API.
 
